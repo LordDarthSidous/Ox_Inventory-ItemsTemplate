@@ -7,9 +7,6 @@ I put this together for my own server that I'm working on, but I thought I would
 ##### Image Quality: *I use adobe illustrator to cut out & size the images, without losing too much of the quality*
 ![item_images](https://user-images.githubusercontent.com/116332087/220464487-23600a1c-9702-4696-bee7-4ac62df7eb9f.png)
 
-![Tim](https://user-images.githubusercontent.com/116332087/219994733-ad6870e3-5808-4e5b-baad-b8a3553c7686.png)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S5IBXL6)
 
 ## Configured items for use:
 - 1 super secret item that isn't ready yet
